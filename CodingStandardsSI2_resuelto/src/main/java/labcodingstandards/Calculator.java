@@ -61,8 +61,8 @@ public static void main(String[] args) {
 	* Method for define an operation.
 	* @return result
 	*/
-	private String operation(final double first, 
-							 final double second, 
+	private String operation(final double first,
+							 final double second,
 							 final char operator) {
 		double result = 0;
 		switch (operator) {
